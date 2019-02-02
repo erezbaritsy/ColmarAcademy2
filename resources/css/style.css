@@ -318,8 +318,7 @@ header li:last-child{
 .subjectInfo video{
   width: 100%;
   height: auto;
-  margin:12.8px 0;
-  margin: 0.8rem 0;
+  margin: 1rem 0;
 }
 
 .subjectInfo h2{
@@ -606,9 +605,6 @@ header li:last-child{
   }
 }
 
-.catalog{
-  border-bottom: 1px solid lightgray;
-}
 
 .mobileCatalog a{
   display: block;
