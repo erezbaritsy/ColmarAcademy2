@@ -163,8 +163,6 @@ header li:last-child{
 .imgContain {
   width: 60%;
   height: auto;
-  margin: 32px 0 32px 40px;
-  margin:32px 0 32px 40px;
   margin:2rem 0 2rem 2.5rem;
 }
 
@@ -186,8 +184,6 @@ header li:last-child{
   -ms-flex-pack: center;
   justify-content: center;
   margin-right: 7.6%;
-  margin-left: 24px;
-  margin-left:24px;
   margin-left: 1.5rem;
 }
 
@@ -209,12 +205,8 @@ header li:last-child{
   width: 77%;
   text-align: center;
   background-color:hsl(357,100%,29.2%);
-  padding: 16px 0;
-  padding:16px 0;
   padding: 1rem 0;
   margin-top: 3vw;
-  font-size: 20.8px;
-  font-size:20.8px;
   font-size: 1.3rem;
 }
 
@@ -238,18 +230,18 @@ header li:last-child{
   }
 
   .startLearn .btn{
-    width: 92%;
+    width: 95%;
     margin: 1.8rem auto;
   }
 
   .startLearn h1{
     font-size: 11vw;
-    margin: 2rem 3rem 2rem 4%;
+    margin: 2rem 3rem 2rem 2.5%;
   }
 
   .startLearn h2{
     font-size: 7vw;
-    margin-left: 4%;
+    margin-left: 3%;
     margin-right:3rem;
   }
 }
@@ -304,9 +296,7 @@ header li:last-child{
   -ms-flex-direction: column;
   flex-direction: column;
   width: 60%;
-  padding-left:40px;
   padding-left: 2.5rem;
-  padding-right:27.2px;
   padding-right: 1.7rem;
   border-right: 1px solid #BF7B0B;
 }
@@ -322,7 +312,6 @@ header li:last-child{
 .subjectInfo img{
   width: 100%;
   height: auto;
-  margin:32px 0;
   margin: 2rem 0;
 }
 
@@ -467,7 +456,7 @@ header li:last-child{
   .subHeads{
     width: 100%;
     margin: 1.5rem 0;
-    padding: 0 0 0 0.3rem;
+    padding:0;
   }
 
   .subImgCont{
@@ -476,7 +465,7 @@ header li:last-child{
 
   .subjectInfo{
     width:100%;
-    padding: 0 0 0 0.3rem;
+    padding:0;
     border-right:0px;
   }
 
